@@ -1,0 +1,9 @@
+seldon-core==1.10.0
+Flask==2.1.0
+spacy
+requests
+tqdm
+click
+transformers==4.21.3
+scipy
+torch
